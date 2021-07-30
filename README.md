@@ -1,2 +1,4 @@
 # NewsCenterManagementSystem
-实训：新闻中心管理系统
+新闻中心管理系统
+开发工具：Eclipse
+开发环境：Java8+Mysql
