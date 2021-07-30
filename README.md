@@ -1,4 +1,4 @@
 # NewsCenterManagementSystem
-新闻中心管理系统
+新闻中心管理系统<br>
 开发工具：Eclipse
 开发环境：Java8+Mysql
